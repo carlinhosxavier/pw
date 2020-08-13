@@ -1,0 +1,17 @@
+/*
+selectores
+class .nomedaclasse
+id #nomeid
+nome_da_tag
+*/
+img{
+	margin: 0 auto;
+	display: block;
+} 
+.centro {
+	text-align: center;
+
+}
+h5 {
+	color: #153DEA
+}
